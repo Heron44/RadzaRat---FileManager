@@ -37,5 +37,5 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 💬 Author
-@Heron44
-Made with ❤️ by Heron4i4
+@Heron4i4
+Made with ❤️ by Heron44
