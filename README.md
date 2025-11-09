@@ -11,7 +11,7 @@ After the application process is complete, the application will automatically la
 ## 🌟 Features
 
 - ✅ Fast connect
-- ⚙️ File Manager for remote other device
+- ⚙️ File Manager for remote control other device
 - 📱 Downloading files from other connected devices
 - 💾 Save downloaded files
 - 📂 The application is actually a file manager too.
