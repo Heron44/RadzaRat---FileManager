@@ -1,4 +1,4 @@
-j# RadzaRat---FileManager
+# RadzaRat---FileManager
 RadzaRat - FileManager. Android rat, FileManager for remote other devices
 
 # 🚀 RadzaRat - FileManager - Android Rat
