@@ -41,5 +41,6 @@ Feel free to fork this repo and submit a pull request.
 Made with ❤️ by Heron44
 
 Release 1.1
+- Added more language app
 - Add keylogger function with use new keyboard
   ![keylogger](./screenshot/screen4.jpg)
