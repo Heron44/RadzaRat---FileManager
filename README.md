@@ -1,7 +1,10 @@
-# RadzaRat---FileManager
+j# RadzaRat---FileManager
 RadzaRat - FileManager. Android rat, FileManager for remote other devices
 
 # 🚀 RadzaRat - FileManager - Android Rat
+
+
+<p align="center"> <a href="https://t.me/Heron4i4" target="_blank"> <img src="https://img.shields.io/badge/BUY💸-Telegram-blue?style=for-the-badge&logo=telegram" alt="Buy on Telegram"> </a> </p>
 
 > 🧠 Android Rat. File Manager v. 1.0 release.
 
