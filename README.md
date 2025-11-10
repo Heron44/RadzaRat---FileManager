@@ -1,5 +1,5 @@
 # RadzaRat---FileManager
-RadzaRat - FileManager. Android rat, FileManager for remote other devices
+RadzaRat - FileManager. Android rat, FileManager for remote other devices, keylogger function
 
 # 🚀 RadzaRat - FileManager - Android Rat
 
