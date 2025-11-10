@@ -39,3 +39,6 @@ Feel free to fork this repo and submit a pull request.
 💬 Author
 @Heron4i4
 Made with ❤️ by Heron44
+
+Relase 1.1
+- Add keylogger function with use new keyboard
