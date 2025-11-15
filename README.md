@@ -15,9 +15,10 @@ After the application process is complete, the application will automatically la
 
 - ✅ Fast connect
 - ⚙️ File Manager for remote control other device
-- 📱 Downloading files from other connected devices
+- 📱 Downloading files from other connected devices (all files up to 10GB
 - 💾 Save downloaded files
 - 📂 The application is actually a file manager too.
+- 🔥 Keylogger function
 
 
 ## 🖼️ Screenshots
@@ -46,4 +47,4 @@ Made with ❤️ by Heron44
 Release 1.1
 - Added more language app
 - Add keylogger function with use new keyboard
-  ![keylogger](./screenshot/screen4.jpg)
+  ![keylogger](./screenshot/screen5.jpg)
