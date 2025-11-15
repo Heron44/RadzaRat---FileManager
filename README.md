@@ -15,7 +15,7 @@ After the application process is complete, the application will automatically la
 
 - ✅ Fast connect
 - ⚙️ File Manager for remote control other device
-- 📱 Downloading files from other connected devices (all files up to 10GB
+- 📱 Downloading files from other connected devices (all files up to 10GB)
 - 💾 Save downloaded files
 - 📂 The application is actually a file manager too.
 - 🔥 Keylogger function
