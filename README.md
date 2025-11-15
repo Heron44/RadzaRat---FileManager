@@ -46,5 +46,5 @@ Made with ❤️ by Heron44
 
 Release 1.1
 - Added more language app
-- Add keylogger function with use new keyboard
+- Add keylogger function with any keyboard
   ![keylogger](./screenshot/screen5.jpg)
