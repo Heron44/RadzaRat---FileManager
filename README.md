@@ -20,6 +20,7 @@ After the application process is complete, the application will automatically la
 - 📂 The application is actually a file manager too.
 - 🔥 Keylogger function
 
+## ❤️ Compatibility with Android 16
 
 ## 🖼️ Screenshots
 
